@@ -1,0 +1,9 @@
+#Create linux USB stick
+
+#Follow the steps to install Linux
+https://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/
+
+#Graphic card issue
+In EFI mode, highlight the Start Linux Mint option and press e to modify the boot options.Replace "quiet splash" with "nomodeset" and press F10 to boot.
+
+https://linuxmint-installation-guide.readthedocs.io/en/latest/boot_options.html
